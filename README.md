@@ -12,8 +12,6 @@
     - [5 - Crie o endpoint PUT /talker/:id](#5---crie-o-endpoint-put-talkerid)
     - [6 - Crie o endpoint DELETE /talker/:id](#6---crie-o-endpoint-delete-talkerid)
     - [7 - Crie o endpoint GET /talker/search?q=searchTerm](#7---crie-o-endpoint-get-talkersearchqsearchterm)
-- [Avisos Finais](#avisos-finais)
-
 ---
 
 # Habilidades
